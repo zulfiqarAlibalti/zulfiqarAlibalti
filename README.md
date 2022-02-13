@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @zulfiqarAlibalti
-- I love with work on the End to End Projects on Machine Learning, Deep Learning as Full Stack Web Developer with Bootstraping,React and React-native. 
-- 👀 I’m interested in Applied Artificical Machine Learning, Deep Learning, Computer Vision and Natural Language Processing
-- 🌱 I’m currently learning Natural Language Processing agoirthm such a word Embedding,sequence tagging, tokenization.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @zulfiqar Ali Datascientist/Full Stack Developer
 
-<!---
-zulfiqarAlibalti/zulfiqarAlibalti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h1 align="center">About Me ✨</h1>
+
+  <p align="center">
+    I graduated from COMSATS University Islambad in 2020 with a degree in Applied/Computational Mathematics. I kick started my professional career as a Data Scientist in various domain uisng Machine Learning & Deep Learning  as beckend devloper and as Web application developer using Reactjs and Bootsrap4.
+  My Research Interset are in Application domain of Machine Learning in computer vision and Autonoums vechels
+    <br />
+    <strong>Site URL / Here is my portfolio website » </strong>
+    <a href="https://zulfiqarali-portfolio-website.netlify.app/">portfolio</a>
+    <br />
+    <br />
+    <a href="https://zulfiqarAlibalti.com">Here is my github link</a>
+  </p>
+</p>
+ <a href="https://zulfiqarAlibalti.com">Further more about my ongoing github projects</a>
+
+[![Product Name Screen Shot](/public/screenrecord.gif)](https://example.com)
+
+
