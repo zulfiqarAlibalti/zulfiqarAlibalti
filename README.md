@@ -18,6 +18,4 @@
 </p>
  <a href="https://zulfiqarAlibalti.com">Further more about my ongoing github projects</a>
 
-[![Product Name Screen Shot](/public/screenrecord.gif)](https://example.com)
-
 
