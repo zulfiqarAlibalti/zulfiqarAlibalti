@@ -18,7 +18,9 @@
 </p>
  <a href="https://zulfiqarAlibalti.com">Further more about my ongoing github projects</a>
  
- [![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfiqarAlibalti&hide=contribs,prs
+ [![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfiqarAlibalti&hide=contribs,prs&count_private=true&show_icons=true&theme=radical
 )](https://github.com/zulfiqarAlibalti/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zulfiqarAlibalti)](https://github.com/zulfiqarAlibalti/github-readme-stats)
 
 
