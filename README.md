@@ -18,7 +18,7 @@
 </p>
  <a href="https://zulfiqarAlibalti.com">Further more about my ongoing github projects</a>
  
- [![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfiqarAlibalti
+ [![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfiqarAlibalti&hide=contribs,prs
 )](https://github.com/zulfiqarAlibalti/github-readme-stats)
 
 
