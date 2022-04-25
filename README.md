@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h1 align="center">About Me ✨💥💥💥🌟💥💥💥✨</h1>
+  <h1 align="center">About Me ✨💥💥🌟💥💥✨</h1>
 
   <p align="center">
     I graduated from COMSATS University Islambad in 2020 with a degree in Applied/Computational Mathematics. I kick started my professional career as a Data Scientist in various domain using Machine Learning & Deep Learning  and Computer Vision expert and Python  devloper and good experience in Web application developement using Reactjs and Bootsrap4 in some End-to-End research base projects.My main research interest are in Advance Computer Vision and Image processing techniquews for 3D Object Segmentations, Object tracking and some other applications in Biomedical imaging, Autonoums Vehicles, and Agriculture domain.
