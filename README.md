@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zulfiqar Ali Datascientist/Machine Learning/Computer Vision Research Engineer
+- 👋 Hi, I’m @zulfiqar Ali Data Scientist & Researcher/Applied Mathematician
 
 <!-- PROJECT LOGO -->
 <br />
@@ -6,7 +6,7 @@
   <h1 align="center">About Me ✨💥💥🌟💥💥✨</h1>
 
   <p align="center">
-    I graduated from COMSATS University Islambad in 2020 with a degree in Applied/Computational Mathematics. I kick started my professional career as a Data Scientist in various domain using Machine Learning & Deep Learning  and Computer Vision expert and Python  devloper and good experience in Web application developement using Reactjs and Bootsrap4 in some End-to-End research base projects.My main research interest  3D vision using  Advance Computer Vision and Image processing techniques for 3D Object Segmentations,detection,tracking and some other applications in Biomedical imaging, Autonoums Vehicles, and Agriculture domain.
+    I working as garduate research student in the field of Biomedical Imaging at Sejong Univeristy, South Korea. I have done my masters from COMSATS University Islambad,Pakistan in 2020 with a degree in Applied/Computational Mathematics. I kick started my professional career as a Data Scientist in various domain using Machine Learning & Deep Learning in vision expert and Python  devloper and good experience in Web application developement using Reactjs and Bootsrap4 in some End-to-End research base projects.My main research interest  3D vision using  Advance Image processing and Computer Vision techniques for 3D Object Segmentations,identification ,tracking  in Biomedical imaging, Autonoums Vehicles, and Agriculture domain.
     <br />
     <strong>Site URL / Here is my portfolio website » </strong>
     <a href="https://zulfiqarali-portfolio-website.netlify.app/">portfolio</a>
