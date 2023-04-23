@@ -6,16 +6,16 @@
   <h1 align="center">About Me ✨💥💥🌟💥💥✨</h1>
 
   <p align="center">
-    I working as garduate research student in the field of Biomedical Imaging at Sejong Univeristy, South Korea. I have done my masters from COMSATS University Islambad,Pakistan in 2020 with a degree in Applied/Computational Mathematics. I kick started my professional career as a Data Scientist in various domain using Machine Learning & Deep Learning in vision expert and Python  devloper and good experience in Web application developement using Reactjs and Bootsrap4 in some End-to-End research base projects.My main research interest  3D vision using  Advance Image processing and Computer Vision techniques for 3D Object Segmentations,identification ,tracking  in Biomedical imaging, Autonoums Vehicles, and Agriculture domain.
+    I am a Data Scientist currently employed at the Press Information Department (PID) in Pakistan. Prior to this role, I pursued graduate research in the field of Biomedical Imaging at Sejong University, South Korea. I earned my Master's degree in Applied/Computational Mathematics from COMSATS University Islamabad, Pakistan in 2020. My professional career began as a Data Scientist where I utilized my expertise in Machine Learning and Deep Learning for various domains. I specialize in vision-related projects and have considerable experience as a Python developer. In addition, I have contributed to End-to-End research-based projects where I have demonstrated proficiency in building intelligent-based web and mobile applications using Reactjs, Python, and Bootstrap4. My primary research interest lies in utilizing advanced bioimage, signal processing and computer vision techniques for 3D object segmentations, identification, and tracking in domains such as Biomedical, Autonomous Vehicles, and Agriculture.
     <br />
     <strong>Site URL / Here is my portfolio website » </strong>
     <a href="https://zulfiqarali-portfolio-website.netlify.app/">portfolio</a>
     <br />
     <br />
-    <a href="https://zulfiqarAlibalti.com">Here is my github link</a>
+    <a href="https://github.com/zulfiqarAlibalti">Here is my github link</a>
   </p>
 </p>
- <a href="https://zulfiqarAlibalti.com">Further more about my ongoing github projects</a>
+ <a href="https://zulfiqarali-portfolio-website.netlify.app/">Further more about my ongoing github projects</a>
  
 <!--  [![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfiqarAlibalti&hide=contribs,prs&count_private=true&show_icons=true&theme=radical
 )](https://github.com/zulfiqarAlibalti/github-readme-stats)
