@@ -15,7 +15,7 @@
     <a href="https://github.com/zulfiqarAlibalti">Here is my github link</a>
   </p>
 </p>
- <a href="https://zulfiqarali-portfolio-website.netlify.app/">Further more about my ongoing github projects</a>
+ <a href="https://zulfiqarali.vercel.app/">Further more about my ongoing github projects</a>
  
 <!--  [![Zulfiqar's GitHub stats](https://github-readme-stats.vercel.app/api?username=zulfiqarAlibalti&hide=contribs,prs&count_private=true&show_icons=true&theme=radical
 )](https://github.com/zulfiqarAlibalti/github-readme-stats)
