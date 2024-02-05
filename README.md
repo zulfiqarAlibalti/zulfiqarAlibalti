@@ -9,7 +9,7 @@
     I am a Data Scientist currently employed at the Press Information Department (PID) in Pakistan. Prior to this role, I pursued graduate research in the field of Biomedical Imaging at Sejong University, South Korea. I earned my Master's degree in Applied/Computational Mathematics from COMSATS University Islamabad, Pakistan in 2020. My professional career began as a Data Scientist where I utilized my expertise in Machine Learning and Deep Learning for various domains. I specialize in vision-related projects and have considerable experience as a Python developer. In addition, I have contributed to End-to-End research-based projects where I have demonstrated proficiency in building intelligent-based web and mobile applications using Reactjs, Python, and Bootstrap4. My primary research interest lies in utilizing advanced bioimage, signal processing and computer vision techniques for 3D object segmentations, identification, and tracking in domains such as Biomedical, Autonomous Vehicles, and Agriculture.
     <br />
     <strong>Site URL / Here is my portfolio website » </strong>
-    <a href="https://zulfiqarali-portfolio-website.netlify.app/">portfolio</a>
+    <a href="https://zulfiqarali.vercel.app/">portfolio</a>
     <br />
     <br />
     <a href="https://github.com/zulfiqarAlibalti">Here is my github link</a>
